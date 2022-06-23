@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Asunasra19/weather-app.git/static/css/main.ab159238.css",
+    "main.js": "/Asunasra19/weather-app.git/static/js/main.fceea233.js",
+    "static/media/warm-bg.jpeg": "/Asunasra19/weather-app.git/static/media/warm-bg.c40c76ea24fb6ab70d4b.jpeg",
+    "static/media/cold-bg.jpg": "/Asunasra19/weather-app.git/static/media/cold-bg.6793d4f62faecb80d7f5.jpg",
+    "index.html": "/Asunasra19/weather-app.git/index.html",
+    "main.ab159238.css.map": "/Asunasra19/weather-app.git/static/css/main.ab159238.css.map",
+    "main.fceea233.js.map": "/Asunasra19/weather-app.git/static/js/main.fceea233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab159238.css",
+    "static/js/main.fceea233.js"
+  ]
+}
